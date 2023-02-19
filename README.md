@@ -1,2 +1,5 @@
-# HsFatBrute
-Python Brute Force, utilisation de Selenium 
+#HsFatBrute
+#Programme Python
+#Selenium
+#Navigateur Chrome
+#Brute Force
