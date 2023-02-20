@@ -2,7 +2,7 @@
 
 USE :
 
-git clone https://github.com/HS-FAT/HsFatBrute.git
+git clone https://github.com/Cracker-One/BruteOne
 
 pip install selenium
 
@@ -10,6 +10,6 @@ pip install colorama
 
 pip install webdriver_manager
 
-cd HsFatBrute
+cd Cracker-One
 
 python bruteforce.py
