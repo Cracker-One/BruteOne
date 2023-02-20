@@ -1,4 +1,4 @@
-#HsFatBrute
+#BruteOne
 
 USE :
 
